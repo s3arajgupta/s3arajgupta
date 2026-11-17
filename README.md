@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Swaraj Gupta 👋
 
-<h3 align="center">AI Engineer & Distributed Systems Architect | Ex-Ericsson | MTech AIS @ NUS-ISS</h3>
+<h3 align="center">AI Engineer & Distributed Systems Architect | Ex-Ericsson | MTech in AI Systems @ NUS</h3>
 
 <div align="center">
 
