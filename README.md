@@ -35,7 +35,7 @@
       <p align="center">
         <a href="https://marketsense-ai-nus.streamlit.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live App" /></a>
         <a href="https://youtu.be/Oq-QEI3UvJw" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Intro-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Intro Video" /></a>
-        <a href="https://youtu.be/l_06wWVMz8U" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Design-YouTube-2EA44F?style=flat-square&logo=youtube&logoColor=white" alt="Design Video" /></a>
+        <a href="https://youtu.be/l_06wWVMz8U" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Design-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Design Video" /></a>
         <br/>
         <a href="https://github.com/s3arajgupta/MarketSense"><img src="https://img.shields.io/github/stars/s3arajgupta/MarketSense?style=flat-square&logo=github&label=Stars&color=blue" alt="Stars" /></a>
         <a href="https://github.com/s3arajgupta/MarketSense"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
