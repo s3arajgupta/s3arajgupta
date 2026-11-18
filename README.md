@@ -26,16 +26,6 @@
 
 ---
 
-### ⚡ Current Orbit
-
-- 🔭 **Industry Work:** Software Engineer Intern (Part-time) at **Maleo Systems (BLOCK71 / NUSX)**, developing multimodal feature-fusion pipelines (geometric, object-level, and material-grade embeddings) for real-time aerospace MRO scrap classification across edge, mobile, and web.
-- 🎓 **Graduate Research:** Completing **Master of Technology in AI Systems** at **National University of Singapore (NUS)**, specializing in reliable AI agents, explainable AI (XAI), and multi-modal alignment.
-- 💼 **Enterprise Track Record:** 4 years as Software Development Engineer at **Ericsson**, building distributed Big Data pipelines, Snowflake ELT platforms, and autonomous MLOps workflows.
-- 🏆 **Hackathons & Honors:** **1st Place Winner** (out of 220+ teams) in Samsung PRISM All-India Deep Learning Hackathon & **Mitacs Globalink Scholar** (&Eacute;TS Montréal).
-- 🎯 **Looking Ahead:** Actively seeking **AI Engineering / Distributed Systems roles in Singapore** (Full-time from Aug 2027 with EP sponsorship / 20+ week Industrial Attachment from Mar 2027).
-
----
-
 ### 📜 Verified Certifications & Credentials
 
 <div align="center">
