@@ -26,32 +26,6 @@
 
 ---
 
-### 📜 Verified Certifications & Credentials
-
-<div align="center">
-
-<a href="https://www.credly.com/badges/3d47daea-5379-44ac-b1ad-9116fe505e3d" target="_blank" rel="noopener noreferrer">
-  <img src="Badge%20CKAD.png" width="110" alt="CKAD: Certified Kubernetes Application Developer (CNCF)" title="Verify CKAD on Credly" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://achieve.snowflake.com/cfff6e39-1679-40b6-ac65-2fceaf2afc6f#acc.1Vet9lxS" target="_blank" rel="noopener noreferrer">
-  <img src="Badge%20SnowPro%20Core.png" width="110" alt="Snowflake SnowPro Core Certified" title="Verify SnowPro Core on Snowflake" />
-</a>
-
-<br/>
-
-<a href="https://www.credly.com/badges/3d47daea-5379-44ac-b1ad-9116fe505e3d" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/CNCF%20%2F%20Linux%20Foundation-CKAD%20Certified%20(2024--2027)-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="CKAD Verification" />
-</a>
-&nbsp;&nbsp;
-<a href="https://achieve.snowflake.com/cfff6e39-1679-40b6-ac65-2fceaf2afc6f#acc.1Vet9lxS" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Snowflake-SnowPro%20Core%20Certified%20(2025--2027)-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="SnowPro Verification" />
-</a>
-
-</div>
-
----
-
 ### 📂 Featured Flagship Projects
 
 <table>
@@ -112,17 +86,27 @@
 
 ---
 
-### 🛠️ Tech Stack & Architecture
+### 📜 Verified Certifications & Credentials
 
 <div align="center">
 
-| Area | Technologies |
-| :--- | :--- |
-| **Agentic AI & GenAI** | `LangGraph` `LangChain` `MCP` `ReAct Agents` `RAG` `Knowledge Graphs` `LangSmith` |
-| **ML, DSP & XAI** | `PyTorch` `TensorFlow / Keras` `scikit-learn` `Librosa (Audio DSP)` `SHAP (XAI)` `MLflow` |
-| **Big Data & Pipelines** | `Apache Spark` `PySpark` `Apache Kafka` `Apache Airflow` `Snowflake` `Databricks` `Iceberg` |
-| **Cloud & Kubernetes** | `Kubernetes (CKAD)` `Docker` `AWS (Glue, EKS, S3, SageMaker, Lambda)` `Azure (AKS, Synapse)` |
-| **Languages** | `Python` `SQL` `Java` `Bash / Linux` `JavaScript` |
+<a href="https://www.credly.com/badges/3d47daea-5379-44ac-b1ad-9116fe505e3d" target="_blank" rel="noopener noreferrer">
+  <img src="Badge%20CKAD.png" width="110" alt="CKAD: Certified Kubernetes Application Developer (CNCF)" title="Verify CKAD on Credly" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://achieve.snowflake.com/cfff6e39-1679-40b6-ac65-2fceaf2afc6f#acc.1Vet9lxS" target="_blank" rel="noopener noreferrer">
+  <img src="Badge%20SnowPro%20Core.png" width="110" alt="Snowflake SnowPro Core Certified" title="Verify SnowPro Core on Snowflake" />
+</a>
+
+<br/>
+
+<a href="https://www.credly.com/badges/3d47daea-5379-44ac-b1ad-9116fe505e3d" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/CNCF%20%2F%20Linux%20Foundation-CKAD%20Certified%20(2024--2027)-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="CKAD Verification" />
+</a>
+&nbsp;&nbsp;
+<a href="https://achieve.snowflake.com/cfff6e39-1679-40b6-ac65-2fceaf2afc6f#acc.1Vet9lxS" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Snowflake-SnowPro%20Core%20Certified%20(2025--2027)-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="SnowPro Verification" />
+</a>
 
 </div>
 
